@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Gesture Clicker",
+    "slug": "lab3-gesture-clicker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true
+  }
+}
